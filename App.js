@@ -1,7 +1,7 @@
-import Search from "./src/type_wather/pages/search"
+import CreativeComponents from "./src/class_componets/native_components/index"
 
 export default function App() {
-  return <Search />
+  return <CreativeComponents />
 }
 
 
